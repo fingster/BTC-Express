@@ -11,3 +11,10 @@ Features
 * Do transactions with any other peer running Mac, Windows or Linux, etc.
 * Sending and receiving of Bitcoin via Bitcoin URLs. 
 * Backup your wallet to your secure email.
+
+Getting Started
+---------------
+1. Email your recieving address to others
+Click and enter "My Address", choose a btc address as your recieving address, touch it. Click "email" on the popup menu, then send the recieving address to others via your Email.
+2. Send btc to others via Bitcoin Address URL
+When you received an email contains a Bitcoin Address URL, by just clicking the URL, BTC Express will automatically open and prepare to send btc to that address.
